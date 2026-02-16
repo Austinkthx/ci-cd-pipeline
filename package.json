@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
      "start": "node http-server.js",
-     "test": "jest"
+     "test": "npx jest"
    },
   "keywords": [],
   "author": "",
